@@ -8,8 +8,6 @@
 <p style="text-align: justify;">
 In the last 10 years, humanity has produced more data than in it's whole history. In face of this of data, we often have a hard time choosing . That's what is called the Paradox of Choice 
 
-<h4>Can we automatically identify pneumonia signals in medical X-ray images with high precision using machine learning techniques?</h4>
-
 ## Stack
 
 <!-- Linguagens -->
