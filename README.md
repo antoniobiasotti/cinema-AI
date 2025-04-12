@@ -6,7 +6,8 @@
 ![GitHub License](https://img.shields.io/github/license/antoniobiasotti/chest-vision?labelColor=101010)
 
 <p style="text-align: justify;">
-In the last 10 years, humanity has produced more data than in it's whole history. In face of this of data, we often have a hard time choosing . That's what is called the Paradox of Choice 
+We are in the midst of a new Renaissance right now, and the reason for it is data.
+In the last 10 years, we have created more data than in the entire previous history of the human race. In face of this of data, we often have a hard time choosing . That's what is called the Paradox of Choice 
 
 ## Stack
 
@@ -21,7 +22,7 @@ In the last 10 years, humanity has produced more data than in it's whole history
   <img src="./images/image.png" height="550" width="650" alt="Logo Nome do Projeto" />
 </h1>
 <p style="text-align: justify;">
-A script that reads a dataset of movie ratings and recommends new movies for a user.</p>
+A script that reads a dataset of movie ratings and then recommends new movies for a user.</p>
 
 
 Thx for reading :)
