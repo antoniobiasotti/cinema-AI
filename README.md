@@ -6,8 +6,8 @@
 ![GitHub License](https://img.shields.io/github/license/antoniobiasotti/chest-vision?labelColor=101010)
 
 <p style="text-align: justify;">
-We are in the midst of a new Renaissance right now, and the reason for it is data.
-In the last 10 years, we have created more data than in the entire previous history of the human race. In face of this huge amount of data, we often have a hard time making a simple decision. That's what is called the Paradox of Choice 
+<b>We are in the midst of a new Renaissance right now, and the reason for it is data!</b><br>
+In the last 10 years, we have created more data than in the entire previous history of the human race. In face of this huge amount of data, we often have a hard time making a simple decision. That's what is called the <i>Paradox of Choice.</i>
 
 ## Stack
 
