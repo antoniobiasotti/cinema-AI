@@ -7,7 +7,7 @@
 
 <p style="text-align: justify;">
 We are in the midst of a new Renaissance right now, and the reason for it is data.
-In the last 10 years, we have created more data than in the entire previous history of the human race. In face of this of data, we often have a hard time choosing . That's what is called the Paradox of Choice 
+In the last 10 years, we have created more data than in the entire previous history of the human race. In face of this huge amount of data, we often have a hard time making a simple decision. That's what is called the Paradox of Choice 
 
 ## Stack
 
