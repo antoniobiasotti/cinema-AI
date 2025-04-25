@@ -17,14 +17,12 @@ In the last 10 years, we have created more data than in the entire previous hist
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 
-<h3><b>Estimated Effort: 10 min</b></h3>
+<h3><b>Estimated Effort: 7 min</b></h3>
 <h1 align="center">
   <img src="./images/image.png" height="550" width="650" alt="Logo Nome do Projeto" />
 </h1>
 <p style="text-align: justify;">
 A script that reads a dataset of movie ratings and then recommends new movies for a user.</p>
 
-
-Thx for reading :)
 
 ### Author: Antônio Biasotti
