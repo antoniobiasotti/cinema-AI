@@ -16,7 +16,7 @@
 <p style="text-align: justify;">
 
 ### We are in the midst of a new Renaissance right now, and the reason for it is data!
-In the last 10 years, we have created more data than in the entire previous history of the human race. In face of this huge amount of data, we often find ourselves having a hard time to make a simple decision, and that's what is called the <i>Paradox of Choice.</i>
+In the last 10 years, we have created more data than in the entire previous history of the human race. In face of this huge amount of data, we often find ourselves having a hard time to make a simple decision, and that's what is called the <i>Paradox of Choice.</i><br><br> 
 In this project a created a simple script that reads a dataset of movie ratings and then recommends new movies for a user.</p>
 
 
